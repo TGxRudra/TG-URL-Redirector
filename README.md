@@ -11,4 +11,4 @@ Telegram Redirector is a Chrome extension that automatically redirects URLs from
 
 1. Clone the repository or download the code as a ZIP file.
    ```bash
-   git clone https://github.com/yourusername/telegram-redirector.git
+   git clone https://github.com/TGxRudra/telegram-redirector.git
